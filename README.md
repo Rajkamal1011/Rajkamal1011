@@ -2,7 +2,7 @@
 
 I'm currently pursuing my MTech in the CSA Dept at IISc Bengaluru 🏫!
 
-- 🔭 I’m currently working on my MTech Thesis involving work on LLMs for Form-Filling Assistance.
+- 🔭 I’m currently working on my MTech Thesis involving work on LLMs for Government Form-Filling Assistance.
 - 🌱 I am interested in Natural Language Processing and developing NLP Applications to solve problems with a research and rigorous outlook!
 - 💻 My Skillset includes PyTorch, Langchain, Python libraries for Data Science - numpy, matplotlib, scikit-learn, pandas, etc.
 - 📚 I enjoy reading Medium Articles and Research papers describing advancements in AI/ML Domain!
